@@ -2,6 +2,7 @@ name: Bot Apuestas Diario
 
 # El reloj despertador
 on:
+Push:
   schedule:
     # Se ejecuta todos los días a las 11:00 AM UTC (Ajusta esto a tu país después)
     - cron: '0 11 * * *'
