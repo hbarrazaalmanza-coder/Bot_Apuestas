@@ -12,9 +12,7 @@ respuesta = requests.get(url)
 if respuesta.status_code == 200:
     datos = respuesta.json()
     partidos = datos.get('data', [])
-    
     partidos_profesionales = [p for p in partidos if p.get('odds_ft_over25', 0) > 1.0]
-    
     lista_resultados = []
 
     for partido in partidos_profesionales:
@@ -26,9 +24,7 @@ if respuesta.status_code == 200:
         cuota_casa_over25 = float(partido.get('odds_ft_over25', 0))
 
         if xg_local > 0 and xg_visitante > 0:
-            
             prob_under_25 = 0
-            
             for goles_local in range(3):
                 for goles_visitante in range(3):
                     if (goles_local + goles_visitante) <= 2:
@@ -43,23 +39,16 @@ if respuesta.status_code == 200:
             
             if cuota_casa_over25 > cuota_justa_over25 and cuota_justa_over25 > 0:
                  edge = (prob_over_25 * cuota_casa_over25) - 1
-                 edge_porcentaje = edge * 100
-                 hay_valor = f"✅ SÍ (+{edge_porcentaje:.1f}%)".replace('.', ',')
-            
-            # --- ARREGLO DE FORMATO PARA EXCEL EN ESPAÑOL ---
-            xg_local_str = str(round(xg_local, 2)).replace('.', ',')
-            xg_visit_str = str(round(xg_visitante, 2)).replace('.', ',')
-            prob_over_str = str(round(prob_over_25 * 100, 1)).replace('.', ',') + "%"
-            cuota_justa_str = str(round(cuota_justa_over25, 2)).replace('.', ',')
-            cuota_casa_str = str(round(cuota_casa_over25, 2)).replace('.', ',')
+                 hay_valor = f"✅ SÍ (+{round(edge * 100, 1)}%)"
 
+            # Mandamos los números puros a Excel
             resultado = {
                 'Partido': f"{local} vs {visitante}",
-                'xG Local': xg_local_str,
-                'xG Visit': xg_visit_str,
-                'Prob. Over 2.5': prob_over_str,
-                'Nuestra Cuota': cuota_justa_str,
-                'Cuota Casa': cuota_casa_str,
+                'xG Local': round(xg_local, 2),
+                'xG Visit': round(xg_visitante, 2),
+                'Prob. Over 2.5': round(prob_over_25, 4), 
+                'Nuestra Cuota': round(cuota_justa_over25, 2),
+                'Cuota Casa': round(cuota_casa_over25, 2),
                 '¿Hay Valor?': hay_valor
             }
             lista_resultados.append(resultado)
@@ -67,9 +56,9 @@ if respuesta.status_code == 200:
     df_resultados = pd.DataFrame(lista_resultados)
     df_resultados = df_resultados.sort_values(by='¿Hay Valor?', ascending=False)
     
-    # IMPORTANTE: Cambiamos el separador a punto y coma (;) para que Excel no confunda las comas de los decimales
-    df_resultados.to_csv('analisis_over25.csv', index=False, encoding='utf-8-sig', sep=';')
-    print("📈 Análisis guardado con formato para Excel.")
+    # Exportamos el CSV estándar
+    df_resultados.to_csv('analisis_over25.csv', index=False, encoding='utf-8-sig')
+    print("📈 Análisis guardado con formato estándar para Excel.")
 
 else:
     print("❌ ERROR al conectar.")
