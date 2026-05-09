@@ -39,9 +39,9 @@ if respuesta.status_code == 200:
             
             if cuota_casa_over25 > cuota_justa_over25 and cuota_justa_over25 > 0:
                  edge = (prob_over_25 * cuota_casa_over25) - 1
+                 # Formato amigable para el Excel: "✅ SÍ (+14.5%)"
                  hay_valor = f"✅ SÍ (+{round(edge * 100, 1)}%)"
 
-            # Mandamos los números puros a Excel
             resultado = {
                 'Partido': f"{local} vs {visitante}",
                 'xG Local': round(xg_local, 2),
@@ -56,8 +56,10 @@ if respuesta.status_code == 200:
     df_resultados = pd.DataFrame(lista_resultados)
     df_resultados = df_resultados.sort_values(by='¿Hay Valor?', ascending=False)
     
-    # Exportamos el CSV estándar
-    df_resultados.to_csv('analisis_over25.csv', index=False, encoding='utf-8-sig')
+    # --- LA SOLUCIÓN DEFINITIVA PARA EXCEL EN ESPAÑOL ---
+    # sep=';' (separa columnas con punto y coma)
+    # decimal=',' (cambia todos los puntos decimales por comas automáticamente)
+    df_resultados.to_csv('analisis_over25.csv', index=False, encoding='utf-8-sig', sep=';', decimal=',')
     print("📈 Análisis guardado con formato estándar para Excel.")
 
 else:
