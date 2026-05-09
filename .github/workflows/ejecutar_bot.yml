@@ -1,0 +1,38 @@
+name: Bot Apuestas Diario
+
+# El reloj despertador
+on:
+  schedule:
+    # Se ejecuta todos los días a las 11:00 AM UTC (Ajusta esto a tu país después)
+    - cron: '0 11 * * *'
+  # Este botón te permite correrlo manualmente cuando quieras
+  workflow_dispatch:
+
+jobs:
+  ejecutar-modelo:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Bajar el código
+      uses: actions/checkout@v3
+      
+    - name: Preparar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Instalar Herramientas (Pandas, Scipy, etc)
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pandas scipy numpy
+        
+    - name: Ejecutar el Cerebro (modelo.py)
+      run: python modelo.py
+      
+    - name: Guardar el CSV generado en la nube
+      run: |
+        git config --local user.email "bot@apuestas.com"
+        git config --local user.name "Bot Apuestas"
+        git add analisis_over25.csv
+        git commit -m "Actualizando datos diarios" || echo "No hay cambios para guardar"
+        git push
