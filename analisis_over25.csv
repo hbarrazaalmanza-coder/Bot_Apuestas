@@ -1,88 +1,150 @@
 ﻿Partido;xG Local;xG Visit;Prob. Over 2.5;Nuestra Cuota;Cuota Casa;¿Hay Valor?
-UTA Arad vs Csikszereda;1,68;0,93;0,4841;2,07;1,95;❌ NO
-New York City vs Nashville SC;1,55;1,15;0,5064;1,97;1,75;❌ NO
-Aberdeen vs Kilmarnock;1,05;1,23;0,3987;2,51;1,67;❌ NO
-Shandong Luneng vs Sichuan Jiuniu;1,87;1,08;0,5655;1,77;1,4;❌ NO
-Porto vs Moreirense FC;1,84;0,75;0,4791;2,09;1,6;❌ NO
+Rosenborg vs HamKam;1,7;1,22;0,5586;1,79;1,4;❌ NO
+Cerezo Osaka vs Tokyo Verdy;1,29;0,44;0,2507;3,99;2,13;❌ NO
+Portland Timbers vs Minnesota United;1,59;1,46;0,5879;1,7;1,5;❌ NO
+Las Vegas Lights vs New Mexico United;1,47;1,14;0,4841;2,07;1,72;❌ NO
+Sportivo San Lorenzo vs 2 de Mayo;1,13;1,12;0,3907;2,56;2,3;❌ NO
+Atlas vs Atlante;1,22;1,33;0,4689;2,13;1,8;❌ NO
+Aurora vs Gualberto Villarroel SJ;1,74;1,26;0,5768;1,73;1,41;❌ NO
+JEF United vs Gamba Osaka;0,86;1,58;0,4407;2,27;1,75;❌ NO
+Sporting CP vs CD Nacional;1,27;0,93;0,3773;2,65;1,42;❌ NO
+Guabirá vs Real Potosí;2,04;1,32;0,6525;1,53;1,47;❌ NO
+Vissel Kobe vs V-Varen Nagasaki;1,53;0,57;0,3504;2,85;2,1;❌ NO
+Greuther Fürth vs Heidenheim;1,62;1,08;0,5064;1,97;1,5;❌ NO
+Willem II vs Excelsior;1,13;1,82;0,5655;1,77;1,65;❌ NO
+Tokyo vs Kyoto Sanga;1,64;1,36;0,5768;1,73;1,72;❌ NO
+Chongqing Tongliang Long vs Shanghai Shenhua;1,22;1,45;0,499;2,0;1,64;❌ NO
+LA Galaxy vs New England Revolution;1,65;1,58;0,6263;1,6;1,53;❌ NO
+Sint-Truiden vs RAAL La Louvière;1,92;1,1;0,5813;1,72;1,7;❌ NO
+Nice vs Le Mans;1,34;1,27;0,4841;2,07;1,93;❌ NO
+Dynamo Dresden vs Bochum;1,53;1,37;0,554;1,8;1,74;❌ NO
+Grasshopper vs Zürich;1,81;1,16;0,5701;1,75;1,67;❌ NO
+Vancouver Whitecaps vs St. Louis City;2,09;1,36;0,6698;1,49;1,44;❌ NO
+Miami FC II vs Pittsburgh Riverhounds;1,46;1,04;0,4562;2,19;1,92;❌ NO
+Indy Eleven vs Birmingham Legion;1,73;1,25;0,5723;1,75;1,51;❌ NO
+Sporting JAX vs Lexington;1,15;1,27;0,4355;2,3;1,56;❌ NO
+Orange County SC vs Sacramento Republic;1,17;1,28;0,4433;2,26;1,9;❌ NO
+Austin vs SJ Earthquakes;1,43;1,24;0,499;2,0;1,55;❌ NO
+Seattle Sounders vs New York RB;1,69;1,54;0,6263;1,6;1,4;❌ NO
+FC Dallas vs Sporting KC;1,34;0,99;0,4119;2,43;1,4;❌ NO
+Junior vs Jaguares de Córdoba;1,38;1,11;0,4536;2,2;1,74;❌ NO
+Oriente Petrolero vs Club Always Ready;1,69;1,89;0,6937;1,44;1,44;❌ NO
+Tampa Bay Rowdies vs Brooklyn FC;2,0;1,3;0,6406;1,56;1,43;❌ NO
+Monterey Bay vs Phoenix Rising;1,52;1,07;0,4791;2,09;1,61;❌ NO
+Columbus Crew vs Colorado Rapids;1,41;0,95;0,4198;2,38;1,75;❌ NO
+FC Cincinnati vs DC United;1,73;1,21;0,5632;1,78;1,32;❌ NO
+Orlando City vs San Diego;1,47;1,25;0,5113;1,96;1,33;❌ NO
+Toronto vs Chicago Fire;1,43;1,41;0,54;1,85;1,53;❌ NO
+Philadelphia Union vs Montreal Impact;1,94;1,4;0,6485;1,54;1,44;❌ NO
+Charlotte vs Houston Dynamo;1,56;1,49;0,5879;1,7;1,7;❌ NO
+Inter Miami vs Atlanta United FC;2,11;1,33;0,6679;1,5;1,23;❌ NO
+Cúcuta Deportivo vs Deportivo Pasto;1,09;1,28;0,4224;2,37;2,19;❌ NO
+Real Garcilaso vs UCV Moquegua;1,33;1,08;0,4329;2,31;1,64;❌ NO
+Cercle Brugge vs KAA Gent;2,09;0,91;0,5768;1,73;1,7;❌ NO
+Mladá Boleslav vs Baník Ostrava;1,17;1,43;0,4816;2,08;1,67;❌ NO
+Vaduz vs Lausanne Sport;1,55;0,86;0,4329;2,31;1,5;❌ NO
+Telstar vs Cambuur;1,08;2,16;0,6284;1,59;1,38;❌ NO
+Brann vs Lillestrøm;2,03;1,48;0,681;1,47;1,4;❌ NO
+Young Boys vs Luzern;2,23;1,06;0,6386;1,57;1,25;❌ NO
+Líšeň vs Viktoria Plzeň;0,97;2,13;0,5988;1,67;1,6;❌ NO
+SønderjyskE vs Horsens;1,32;1,01;0,4119;2,43;1,83;❌ NO
+Västerås SK vs Sirius;1,3;1,7;0,5768;1,73;1,55;❌ NO
+Lens vs Lorient;1,68;1,08;0,521;1,92;1,72;❌ NO
+UTA Arad vs Csikszereda;1,68;0,93;0,4841;2,07;1,87;❌ NO
+Tianjin Teda vs Zhejiang FC;1,25;1,28;0,4639;2,16;1,64;❌ NO
+Estrela Amadora vs Famalicão;0,98;1,0;0,3179;3,15;2,15;❌ NO
+Dordrecht vs AZ II;1,72;1,86;0,6937;1,44;1,4;❌ NO
+Frosinone vs Venezia;1,08;0,97;0,3369;2,97;1,87;❌ NO
+Sporting Gijón vs Girona FC;1,21;1,17;0,4251;2,35;2,04;❌ NO
+Hull City vs Aston Villa;0,97;0,55;0,1962;5,1;1,87;❌ NO
+Parma vs Monza;1,2;0,85;0,3369;2,97;2,3;❌ NO
+Rayo Vallecano vs Racing Santander;0,97;0,82;0,2667;3,75;1,86;❌ NO
+Ceuta vs Celta de Vigo II;1,86;0,9;0,521;1,92;1,85;❌ NO
+Utrecht vs Go Ahead Eagles;0,58;1,31;0,2936;3,41;1,46;❌ NO
+Troyes vs Strasbourg;1,27;0,7;0,3152;3,17;1,9;❌ NO
+Örgryte vs Hammarby;1,37;2,21;0,6937;1,44;1,32;❌ NO
+Henan Jianye vs Chengdu Better City FC;1,66;1,48;0,6074;1,65;1,62;❌ NO
+Zlín vs Teplice;1,09;1,36;0,4433;2,26;2,07;❌ NO
+Yunnan Yukun vs Shenyang Urban;1,81;1,34;0,6096;1,64;1,35;❌ NO
+Aberdeen vs Kilmarnock;1,05;1,23;0,3987;2,51;1,65;❌ NO
 Dundee United vs Falkirk;1,49;1,15;0,4916;2,03;1,71;❌ NO
 Manchester City vs Coventry City;1,68;0,56;0,388;2,58;1,33;❌ NO
-Leones vs Atlético;1,3;1,26;0,4715;2,12;1,98;❌ NO
-ABB vs Universitario de Vinto;1,84;1,47;0,6426;1,56;1,47;❌ NO
-Nottingham Forest vs Tottenham Hotspur;1,27;1,24;0,4587;2,18;2,0;❌ NO
-Rosenborg vs HamKam;1,7;1,22;0,5586;1,79;1,44;❌ NO
-Slavia Praha vs Zbrojovka Brno;2,55;0,84;0,6583;1,52;1,51;❌ NO
-Hannover 96 vs Karlsruher SC;1,4;1,86;0,6325;1,58;1,38;❌ NO
-Lommel United vs Club Brugge;1,16;2,05;0,6222;1,61;1,3;❌ NO
-Degerfors vs Halmstad;1,18;1,4;0,4765;2,1;1,9;❌ NO
-Widzew Łódź vs Radomiak Radom;1,7;0,97;0,499;2,0;1,68;❌ NO
-Escorpiones Belén vs Inter San Carlos;1,05;1,48;0,4639;2,16;1,9;❌ NO
-Juárez vs Pachuca;0,89;1,48;0,4224;2,37;1,88;❌ NO
-Real Sociedad II vs CD Tenerife;0,63;1,04;0,2349;4,26;2,15;❌ NO
-Wuhan Three Towns vs Qingdao Youth Island;1,61;1,19;0,5305;1,88;1,85;❌ NO
-Wolfsburg vs Energie Cottbus;1,88;0,95;0,5377;1,86;1,42;❌ NO
-Kaiserslautern vs Darmstadt 98;1,21;0,94;0,3639;2,75;1,65;❌ NO
-Newcastle United vs AFC Bournemouth;1,29;0,67;0,3125;3,2;1,59;❌ NO
-Dalian Zhixing vs Qingdao Jonoon;1,74;1,34;0,5945;1,68;1,62;❌ NO
-Sandefjord vs Viking;1,55;1,63;0,6159;1,62;1,42;❌ NO
-Real Oruro vs San Antonio Bulo Bulo;1,4;1,21;0,4841;2,07;1,33;❌ NO
-Sporting Gijón vs Girona FC;1,21;1,17;0,4251;2,35;2,04;❌ NO
-Helmond Sport vs VVV;0,97;0,88;0,2828;3,54;1,62;❌ NO
-Aalesund vs Start;1,91;1,31;0,6243;1,6;1,48;❌ NO
-Fredrikstad vs FK Bodo - Glimt;1,5;1,89;0,6583;1,52;1,38;❌ NO
-Viborg vs Lyngby;1,15;2,09;0,6284;1,59;1,53;❌ NO
-Olympique Lyonnais vs Auxerre;1,49;1,28;0,5234;1,91;1,64;❌ NO
-İstanbul Başakşehir vs Galatasaray;1,48;1,13;0,4841;2,07;1,43;❌ NO
-Estrela Amadora vs Famalicão;0,98;1,0;0,3179;3,15;2,15;❌ NO
-Sparta Rotterdam vs PEC Zwolle;1,26;1,48;0,5161;1,94;1,42;❌ NO
-Vitesse vs Oss;1,77;1,22;0,5746;1,74;1,49;❌ NO
-Dordrecht vs AZ II;1,72;1,86;0,6937;1,44;1,4;❌ NO
-Almere City vs Ajax II;1,2;1,51;0,5088;1,97;1,24;❌ NO
-Emmen vs Volendam;1,74;0,84;0,4765;2,1;1,42;❌ NO
-UD Las Palmas vs Leganés;1,3;0,61;0,299;3,34;1,95;❌ NO
-Shanghai SIPG vs Beijing Guoan;1,74;1,52;0,6325;1,58;1,38;❌ NO
-Pau vs Sochaux;1,56;0,66;0,3826;2,61;2,1;❌ NO
-Laval vs Red Star;1,45;1,12;0,474;2,11;2,01;❌ NO
-FC Cajamarca vs Cienciano;1,2;1,68;0,5494;1,82;1,66;❌ NO
-Dunkerque vs Clermont;1,69;0,73;0,4355;2,3;1,93;❌ NO
-Grenoble Foot 38 vs Annecy;0,92;0,85;0,2614;3,83;2,05;❌ NO
-Real Betis vs Real Madrid;1,95;2,36;0,8039;1,24;1,36;✅ SÍ (+9.3%)
-Metz vs Rodez;1,82;1,49;0,6426;1,56;1,68;✅ SÍ (+8.0%)
-Platense vs Deportivo Riestra;1,49;1,26;0,5185;1,93;3,35;✅ SÍ (+73.7%)
-Belgrano vs Huracán;1,42;1,38;0,5305;1,88;2,8;✅ SÍ (+48.6%)
-Genoa vs Como;1,13;2,06;0,618;1,62;2,38;✅ SÍ (+47.1%)
-Defensores de Belgrano vs Racing Córdoba;1,31;1,25;0,4715;2,12;3,1;✅ SÍ (+46.2%)
-Fiorentina vs Torino;2,3;1,19;0,6773;1,48;2,15;✅ SÍ (+45.6%)
+Nottingham Forest vs Tottenham Hotspur;1,27;1,24;0,4587;2,18;1,9;❌ NO
+AGF vs Silkeborg;2,08;1,09;0,6138;1,63;1,36;❌ NO
+CS Marítimo vs Benfica;1,41;2,3;0,7163;1,4;1,53;✅ SÍ (+9.6%)
+Saint-Étienne vs Montpellier;2,07;1,3;0,6544;1,53;1,67;✅ SÍ (+9.3%)
+Real Salt Lake vs Los Angeles FC;1,89;1,48;0,6544;1,53;1,66;✅ SÍ (+8.6%)
+Tigres UANL vs Necaxa;1,8;1,67;0,6736;1,48;1,61;✅ SÍ (+8.4%)
+Hertha BSC vs Magdeburg;2,08;1,92;0,7619;1,31;1,42;✅ SÍ (+8.2%)
+Detroit City FC vs Hartford Athletic;1,65;1,25;0,554;1,8;1,95;✅ SÍ (+8.0%)
+Sport Huancayo vs Sport Boys;1,57;1,4;0,5701;1,75;1,88;✅ SÍ (+7.2%)
+Herediano vs Pérez Zeledón;1,61;1,4;0,579;1,73;1,85;✅ SÍ (+7.1%)
+San Telmo vs Los Andes;1,64;1,36;0,5768;1,73;2,88;✅ SÍ (+66.1%)
+Le Havre vs Brest;1,56;2,56;0,779;1,28;2,1;✅ SÍ (+63.6%)
+Boyacá Chicó vs Once Caldas;1,01;1,64;0,494;2,02;2,15;✅ SÍ (+6.2%)
+Tristán Suárez vs San Martín Tucumán;1,26;1,24;0,4562;2,19;3,4;✅ SÍ (+55.1%)
+KV Mechelen vs KVC Westerlo;1,9;1,48;0,6564;1,52;1,6;✅ SÍ (+5.0%)
+Gimnasia La Plata vs Tigre;1,29;1,49;0,5258;1,9;2,85;✅ SÍ (+49.8%)
+AEK Athens vs Aris;2,76;2,03;0,8565;1,17;1,72;✅ SÍ (+47.3%)
+Vélez Sarsfield vs Estudiantes;1,41;1,63;0,5857;1,71;2,51;✅ SÍ (+47.0%)
+Fluminense vs Vasco da Gama;2,05;1,53;0,6937;1,44;2,1;✅ SÍ (+45.7%)
 Sporting Charleroi vs Union Saint-Gilloise;2,08;1,87;0,7545;1,33;1,9;✅ SÍ (+43.4%)
-Ferro Carril Oeste vs Club Atlético Mitre;1,64;1,2;0,54;1,85;2,65;✅ SÍ (+43.1%)
-Boulogne vs Dijon;1,39;1,78;0,6138;1,63;2,3;✅ SÍ (+41.2%)
-Criciúma vs Cuiabá;1,72;1,15;0,5471;1,83;2,56;✅ SÍ (+40.0%)
-GAIS vs Häcken;1,89;1,48;0,6544;1,53;1,6;✅ SÍ (+4.7%)
-Arminia Bielefeld vs St. Pauli;1,82;1,49;0,6426;1,56;1,62;✅ SÍ (+4.1%)
-Brentford vs Sunderland;2,56;1,38;0,753;1,33;1,84;✅ SÍ (+38.5%)
-BB Erzurumspor vs Konyaspor;1,28;2,0;0,6365;1,57;2,07;✅ SÍ (+31.8%)
-Bogotá vs Independiente Yumbo;1,44;1,48;0,5586;1,79;2,35;✅ SÍ (+31.3%)
-Concepción vs Audax Italiano;1,56;1,19;0,5185;1,93;2,0;✅ SÍ (+3.7%)
-Sigma Olomouc vs Bohemians 1905;1,9;1,21;0,601;1,66;1,72;✅ SÍ (+3.4%)
-Slovácko vs Pardubice;1,64;1,1;0,5161;1,94;2,0;✅ SÍ (+3.2%)
-Estudiantes Río Cuarto vs Sarmiento;1,19;1,28;0,4485;2,23;2,88;✅ SÍ (+29.2%)
-Athletic Club Bilbao vs Atlético Madrid;2,3;1,2;0,6792;1,47;1,9;✅ SÍ (+29.0%)
-CRB vs América Mineiro;2,14;1,37;0,681;1,47;1,89;✅ SÍ (+28.7%)
-Brighton & Hove Albion vs Leeds United;2,27;1,15;0,6641;1,51;1,91;✅ SÍ (+26.8%)
-Rangers vs Motherwell;2,25;1,75;0,7619;1,31;1,62;✅ SÍ (+23.4%)
-Avispa Fukuoka vs Mito Hollyhock;1,5;1,58;0,5945;1,68;2,05;✅ SÍ (+21.9%)
-Orsomarso vs Real Cartagena;1,2;1,73;0,5609;1,78;2,14;✅ SÍ (+20.0%)
-Loudoun United vs Colorado Springs;1,58;1,41;0,5746;1,74;1,79;✅ SÍ (+2.8%)
-Piast Gliwice vs GKS Katowice;1,73;1,53;0,6325;1,58;1,62;✅ SÍ (+2.5%)
-Torque vs Cerro Largo;1,45;1,24;0,5039;1,98;2,03;✅ SÍ (+2.3%)
-Holstein Kiel vs Nürnberg;1,98;1,85;0,7359;1,36;1,6;✅ SÍ (+17.7%)
-Reims vs Guingamp;1,74;1,75;0,6773;1,48;1,72;✅ SÍ (+16.5%)
-RKC Waalwijk vs NAC Breda;1,87;2,12;0,7604;1,32;1,5;✅ SÍ (+14.1%)
-Botoşani vs Sepsi;1,9;1,0;0,554;1,8;2,05;✅ SÍ (+13.6%)
-Técnico Universitario vs LDU Quito;1,57;1,27;0,54;1,85;2,1;✅ SÍ (+13.4%)
-Athletic Club vs Vila Nova;1,44;1,22;0,4965;2,01;2,28;✅ SÍ (+13.2%)
+Cracovia Kraków vs Górnik Zabrze;2,19;1,76;0,7545;1,33;1,9;✅ SÍ (+43.4%)
+Colón vs Deportivo Morón;1,52;1,28;0,5305;1,88;2,7;✅ SÍ (+43.2%)
+Gimnasia Mendoza vs Boca Juniors;1,31;1,62;0,5609;1,78;2,55;✅ SÍ (+43.0%)
+Nagoya Grampus vs Machida Zelvia;2,1;1,84;0,753;1,33;1,87;✅ SÍ (+40.8%)
+Fagiano Okayama vs Sanfrecce Hiroshima;1,89;2,25;0,7817;1,28;1,8;✅ SÍ (+40.7%)
+Juventude vs Atlético GO;1,54;1,3;0,54;1,85;2,6;✅ SÍ (+40.4%)
+Santa Fe vs Fortaleza CEIF;1,39;1,23;0,4866;2,06;2,15;✅ SÍ (+4.6%)
+Kawasaki Frontale vs Shimizu S-Pulse;1,85;1,46;0,6426;1,56;1,62;✅ SÍ (+4.1%)
+Atlético San Luis vs Guadalajara;1,33;1,9;0,6263;1,6;1,66;✅ SÍ (+4.0%)
+Alajuelense vs Deportivo Saprissa;1,69;1,97;0,7077;1,41;1,95;✅ SÍ (+38.0%)
+Brentford vs Sunderland;2,56;1,38;0,753;1,33;1,82;✅ SÍ (+37.0%)
+Danubio vs Peñarol;1,27;1,7;0,5701;1,75;2,4;✅ SÍ (+36.8%)
+Acassuso vs All Boys;1,25;1,19;0,4407;2,27;3,1;✅ SÍ (+36.6%)
+Jablonec vs Slovan Liberec;1,68;2,03;0,7163;1,4;1,9;✅ SÍ (+36.1%)
+Cerro vs Racing;1,22;1,59;0,5329;1,88;2,55;✅ SÍ (+35.9%)
+Osnabrück vs Eintracht Braunschweig;1,24;2,77;0,7634;1,31;1,77;✅ SÍ (+35.1%)
+Dinamo Bucureşti vs FCSB;1,73;1,99;0,7179;1,39;1,85;✅ SÍ (+32.8%)
+Fenerbahçe vs Beşiktaş;2,19;1,75;0,753;1,33;1,76;✅ SÍ (+32.5%)
+Everton vs Manchester United;1,83;2,37;0,7898;1,27;1,67;✅ SÍ (+31.9%)
+Standard Liège vs Royal Antwerp FC;1,74;2,03;0,7262;1,38;1,8;✅ SÍ (+30.7%)
+Ceará vs Sport Recife;1,73;1,19;0,5586;1,79;2,33;✅ SÍ (+30.2%)
+Alverca vs Sporting Braga;1,05;1,47;0,4613;2,17;2,25;✅ SÍ (+3.8%)
+Everton vs Universidad Católica;1,6;1,4;0,5768;1,73;1,8;✅ SÍ (+3.8%)
+Athletic Club Bilbao vs Atlético Madrid;2,3;1,2;0,6792;1,47;1,91;✅ SÍ (+29.7%)
+CD Eldense vs RCD Mallorca;1,5;1,75;0,6304;1,59;2,04;✅ SÍ (+28.6%)
+Rhode Island vs Louisville City;1,97;1,71;0,7112;1,41;1,8;✅ SÍ (+28.0%)
+San Lorenzo vs Talleres Córdoba;1,27;1,45;0,5113;1,96;2,5;✅ SÍ (+27.8%)
+BB Erzurumspor vs Konyaspor;1,28;2,0;0,6365;1,57;2,0;✅ SÍ (+27.3%)
+São Paulo vs Atlético Mineiro;1,64;1,3;0,5632;1,78;2,26;✅ SÍ (+27.3%)
+Sportivo Trinidense vs Olimpia;1,43;1,71;0,6074;1,65;2,06;✅ SÍ (+25.1%)
+CSD Independiente del Valle vs Macará;2,19;1,35;0,6865;1,46;1,8;✅ SÍ (+23.6%)
+Aldosivi vs Banfield;1,26;1,37;0,4891;2,04;2,5;✅ SÍ (+22.3%)
+SD Eibar vs Granada CF;1,57;1,36;0,5609;1,78;2,18;✅ SÍ (+22.3%)
+Unión Magdalena vs Barranquilla;1,68;1,53;0,6222;1,61;1,95;✅ SÍ (+21.3%)
+Kashima Antlers vs Urawa Reds;1,44;1,97;0,6622;1,51;1,83;✅ SÍ (+21.2%)
+San Antonio vs Tulsa Roughnecks;1,57;1,43;0,5768;1,73;2,1;✅ SÍ (+21.1%)
+Goiás vs Fortaleza;1,46;1,25;0,5088;1,97;2,36;✅ SÍ (+20.1%)
+Universitario vs Comerciantes Unidos;1,55;1,48;0,5835;1,71;1,75;✅ SÍ (+2.1%)
+Brighton & Hove Albion vs Leeds United;2,27;1,15;0,6641;1,51;1,8;✅ SÍ (+19.5%)
+Bragantino vs Bahia;1,79;1,53;0,6446;1,55;1,85;✅ SÍ (+19.2%)
+Rangers vs Motherwell;2,25;1,75;0,7619;1,31;1,56;✅ SÍ (+18.9%)
+Groningen vs Twente;1,97;2,14;0,7776;1,29;1,5;✅ SÍ (+16.6%)
+St. Mirren vs Celtic;1,63;2,71;0,8076;1,24;1,44;✅ SÍ (+16.3%)
+Servette vs St. Gallen;2,18;2,36;0,8309;1,2;1,4;✅ SÍ (+16.3%)
+Korona Kielce vs Wisła Kraków;1,6;2,04;0,7043;1,42;1,65;✅ SÍ (+16.2%)
+Heerenveen vs AZ;1,44;2,94;0,8125;1,23;1,43;✅ SÍ (+16.2%)
+Motor Lublin vs Legia Warszawa;1,8;1,64;0,6679;1,5;1,74;✅ SÍ (+16.2%)
+Inter Milan vs Napoli;1,45;1,55;0,5768;1,73;2,0;✅ SÍ (+15.4%)
+Deportes Quindío vs Real Santander;1,34;1,73;0,5923;1,69;1,93;✅ SÍ (+14.3%)
+Volos NFC vs Olympiakos Piraeus;1,78;1,79;0,6919;1,45;1,64;✅ SÍ (+13.5%)
+Deportivo Maldonado vs Wanderers;1,44;1,4;0,54;1,85;2,1;✅ SÍ (+13.4%)
+NEC vs Feyenoord;2,79;1,92;0,8487;1,18;1,33;✅ SÍ (+12.9%)
 Fulham vs Crystal Palace;1,76;1,33;0,5967;1,68;1,89;✅ SÍ (+12.8%)
-Heracles vs De Graafschap;3,49;1,6;0,8827;1,13;1,26;✅ SÍ (+11.2%)
-NEC vs Feyenoord;2,79;1,92;0,8487;1,18;1,3;✅ SÍ (+10.3%)
-CFR Cluj vs SSC Farul;1,73;1,43;0,6117;1,63;1,8;✅ SÍ (+10.1%)
-Ipswich Town vs Liverpool;1,1;2,66;0,7246;1,38;1,4;✅ SÍ (+1.4%)
-Alianza Atlético vs UTC Cajamarca;1,47;1,38;0,5424;1,84;1,85;✅ SÍ (+0.3%)
+Ajax vs PSV;2,21;2,8;0,8762;1,14;1,28;✅ SÍ (+12.2%)
+Novorizontino vs Avaí;1,91;1,07;0,5723;1,75;1,95;✅ SÍ (+11.6%)
+Universidad Chile vs Coquimbo Unido;1,84;1,24;0,5945;1,68;1,85;✅ SÍ (+10.0%)
+Petrolul 52 vs Corvinul Hunedoara;1,36;1,2;0,4715;2,12;2,15;✅ SÍ (+1.4%)
+Kashiwa Reysol vs Yokohama F. Marinos;1,53;1,35;0,5494;1,82;1,84;✅ SÍ (+1.1%)
+Chacarita Juniors vs Atlanta;1,1;0,95;0,3369;2,97;2,99;✅ SÍ (+0.7%)
