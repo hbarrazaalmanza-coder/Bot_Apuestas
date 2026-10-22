@@ -1,30 +1,39 @@
 ﻿Partido;xG Local;xG Visit;Prob. Over 2.5;Nuestra Cuota;Cuota Casa;¿Hay Valor?
-Como vs Manchester United;1,42;1,79;0,6222;1,61;1,49;❌ NO
-Toluca vs Tijuana;1,97;1,39;0,6525;1,53;1,4;❌ NO
-Sporting JAX vs Louisville City;1,29;1,62;0,5563;1,8;1,46;❌ NO
-FC Cincinnati vs DC United;1,96;1,32;0,6365;1,57;1,25;❌ NO
-Brooklyn FC vs Birmingham Legion;1,44;1,3;0,5161;1,94;1,47;❌ NO
-Torque vs Atlético Mineiro;1,15;1,29;0,4407;2,27;1,85;❌ NO
-Sportivo Luqueño vs Sportivo San Lorenzo;1,31;1,17;0,451;2,22;1,94;❌ NO
-Lille vs Galatasaray;0,57;0,83;0,1665;6,01;1,67;❌ NO
-Santa Fe vs Jaguares de Córdoba;1,43;1,11;0,4664;2,14;1,62;❌ NO
-Cerro Porteño vs Sportivo Ameliano;1,47;1,31;0,5258;1,9;1,9;❌ NO
-Sporting CP vs LASK Linz;1,16;2,11;0,6345;1,58;1,36;❌ NO
-Aston Villa vs Viking;2,26;1,14;0,6603;1,51;1,26;❌ NO
-Real Betis vs Feyenoord;1,94;1,03;0,5701;1,75;1,36;❌ NO
-Real Madrid vs RB Leipzig;1,88;1,82;0,7146;1,4;1,18;❌ NO
-Inter Milan vs Shakhtar Donetsk;2,78;1,01;0,7295;1,37;1,33;❌ NO
-Santos Laguna vs Pumas UNAM;1,56;1,34;0,554;1,8;1,65;❌ NO
-Puebla vs Monterrey;1,39;1,81;0,6201;1,61;1,76;✅ SÍ (+9.1%)
-Club Brugge vs Lens;2,0;2,44;0,8196;1,22;1,31;✅ SÍ (+7.4%)
-Al Ahly vs Olympic El Qanah;2,13;1,06;0,618;1,62;1,72;✅ SÍ (+6.3%)
-Ceramica Cleopatra vs Petrojet;1,44;2,23;0,7095;1,41;2,04;✅ SÍ (+44.7%)
-Bayern München vs Arsenal;2,9;2,63;0,9135;1,09;1,53;✅ SÍ (+39.8%)
-Palmeiras vs Fluminense;1,84;1,45;0,6386;1,57;2,15;✅ SÍ (+37.3%)
-Kairat vs Panathinaikos;1,39;2,31;0,7146;1,4;1,8;✅ SÍ (+28.6%)
-Levante UD vs Athletic Club Bilbao;2,01;1,24;0,6304;1,59;2,0;✅ SÍ (+26.1%)
-Pachuca vs Cruz Azul;1,65;2,14;0,7295;1,37;1,66;✅ SÍ (+21.1%)
-Sportivo Trinidense vs Libertad;1,46;1,59;0,5879;1,7;2,0;✅ SÍ (+17.6%)
-Llaneros vs Deportivo Cali;1,22;1,42;0,4916;2,03;2,33;✅ SÍ (+14.5%)
-Atlas vs América;1,39;2,11;0,6792;1,47;1,68;✅ SÍ (+14.1%)
-Olimpia vs 2 de Mayo;1,78;1,14;0,5586;1,79;1,8;✅ SÍ (+0.6%)
+Saburtalo vs Mjällby;0,37;1,56;0,3044;3,29;1,9;❌ NO
+Hoffenheim vs Olympique Lyonnais;1,86;1,43;0,6386;1,57;1,43;❌ NO
+Ferencváros vs Torreense;1,5;0,74;0,388;2,58;1,54;❌ NO
+Sturm Graz vs Olympique Marseille;1,05;1,41;0,4459;2,24;1,66;❌ NO
+AGF vs Egnatia Rrogozhinë;0,47;1,3;0,2614;3,83;1,68;❌ NO
+OFI vs Bayer Leverkusen;1,0;2,26;0,6325;1,58;1,33;❌ NO
+Dinamo Zagreb vs NEC;1,06;1,69;0,5185;1,93;1,48;❌ NO
+FC Avan Academy vs AZ;1,13;1,52;0,494;2,02;1,5;❌ NO
+Atlético Nacional vs Deportivo Pasto;1,76;1,28;0,5857;1,71;1,63;❌ NO
+Jagiellonia Białystok vs RSC Anderlecht;1,34;1,45;0,5282;1,89;1,75;❌ NO
+Celje vs Salzburg;1,01;1,79;0,5305;1,88;1,61;❌ NO
+Lillestrøm vs Real Sociedad;1,42;1,28;0,5064;1,97;1,44;❌ NO
+Kauno Žalgiris vs Brann;0,38;1,63;0,326;3,07;1,7;❌ NO
+Inter Club d'Escaldes vs CS U Craiova;1,55;1,22;0,5234;1,91;1,87;❌ NO
+Thun vs Hajduk Split;0,5;1,78;0,3987;2,51;1,63;❌ NO
+Omonia Nicosia vs Benfica;1,46;2,25;0,7163;1,4;1,53;✅ SÍ (+9.6%)
+Beşiktaş vs Crystal Palace;2,1;1,57;0,7095;1,41;1,52;✅ SÍ (+7.8%)
+Borac Banja Luka vs KuPS;1,66;1,23;0,5517;1,81;1,93;✅ SÍ (+6.5%)
+Celtic vs Celta de Vigo;1,68;1,44;0,6032;1,66;1,75;✅ SÍ (+5.6%)
+Lincoln Red Imps vs Twente;1,3;2,62;0,7499;1,33;1,4;✅ SÍ (+5.0%)
+Getafe CF vs Lugano;1,4;1,99;0,6583;1,52;2,1;✅ SÍ (+38.2%)
+Monaco vs Freiburg;1,43;2,8;0,7937;1,26;1,74;✅ SÍ (+38.1%)
+Paphos vs Riga;1,68;2,5;0,7871;1,27;1,71;✅ SÍ (+34.6%)
+Lech Poznań vs Sunderland;1,91;2,13;0,7677;1,3;1,75;✅ SÍ (+34.3%)
+Olympiakos Piraeus vs Sparta Praha;1,79;2,23;0,7648;1,31;1,72;✅ SÍ (+31.5%)
+Trabzonspor vs Hearts;2,18;1,79;0,7575;1,32;1,37;✅ SÍ (+3.8%)
+Juventus vs Rennes;1,78;2,47;0,7963;1,26;1,61;✅ SÍ (+28.2%)
+Flamengo vs Estudiantes;1,49;1,56;0,5879;1,7;2,1;✅ SÍ (+23.5%)
+AFC Bournemouth vs AC Milan;1,76;1,84;0,6973;1,43;1,75;✅ SÍ (+22.0%)
+Midtjylland vs Sint-Truiden;1,83;2,29;0,779;1,28;1,56;✅ SÍ (+21.5%)
+Union Saint-Gilloise vs Hapoel Be'er Sheva;2,15;1,29;0,6679;1,5;1,53;✅ SÍ (+2.2%)
+Botoşani vs Petrolul 52;1,87;1,46;0,6466;1,55;1,85;✅ SÍ (+19.6%)
+Red Star Belgrade vs København;1,88;1,6;0,6754;1,48;1,75;✅ SÍ (+18.2%)
+Sporting Braga vs KAA Gent;1,31;1,54;0,5424;1,84;2,17;✅ SÍ (+17.7%)
+Ajax vs Atalanta;2,58;1,67;0,7963;1,26;1,47;✅ SÍ (+17.1%)
+Nordsjælland vs CSKA Sofia;1,97;2,0;0,7575;1,32;1,5;✅ SÍ (+13.6%)
+Jablonec vs Brighton & Hove Albion;1,33;2,95;0,8001;1,25;1,42;✅ SÍ (+13.6%)
+Viktoria Plzeň vs Levski Sofia;2,23;0,98;0,6222;1,61;1,77;✅ SÍ (+10.1%)
