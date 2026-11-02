@@ -1,65 +1,29 @@
 ﻿Partido;xG Local;xG Visit;Prob. Over 2.5;Nuestra Cuota;Cuota Casa;¿Hay Valor?
-VPS vs HJK;1,4;1,63;0,5835;1,71;1,53;❌ NO
-New Mexico United vs Phoenix Rising;1,38;1,47;0,5424;1,84;1,58;❌ NO
-Independiente Medellín vs Alianza Petrolera;1,55;1,2;0,5185;1,93;1,8;❌ NO
-Lanús vs Gimnasia Mendoza;1,44;1,32;0,521;1,92;1,87;❌ NO
-New England Revolution vs Inter Miami;1,38;1,42;0,5305;1,88;1,35;❌ NO
-The Strongest vs Gualberto Villarroel SJ;1,85;1,3;0,6096;1,64;1,36;❌ NO
-Santos Laguna vs Necaxa;1,49;1,57;0,5901;1,69;1,5;❌ NO
-Los Angeles FC vs Minnesota United;1,78;1,48;0,6325;1,58;1,44;❌ NO
-Vancouver Whitecaps vs Seattle Sounders;2,07;1,44;0,681;1,47;1,43;❌ NO
-Real Garcilaso vs Sport Boys;1,37;1,39;0,521;1,92;1,64;❌ NO
-Portland Timbers vs Houston Dynamo;1,69;1,42;0,601;1,66;1,57;❌ NO
-Vålerenga vs Tromsø;1,84;1,35;0,618;1,62;1,51;❌ NO
-Brøndby vs AGF;1,82;1,47;0,6386;1,57;1,53;❌ NO
-CODM Meknès vs FAR Rabat;1,54;0,67;0,38;2,63;2,35;❌ NO
-Academico Viseu vs Rio Ave FC;1,19;0,71;0,2963;3,38;1,91;❌ NO
-Guayaquil City FC vs Libertad;1,04;1,33;0,4224;2,37;1,9;❌ NO
-Deportivo Cali vs Boyacá Chicó;1,42;1,03;0,4433;2,26;1,55;❌ NO
-Guabirá vs Bolívar;1,85;1,57;0,6641;1,51;1,47;❌ NO
-Atlanta United FC vs Toronto;1,42;1,29;0,5088;1,97;1,44;❌ NO
-Atromitos vs Volos NFC;1,45;1,01;0,4459;2,24;1,94;❌ NO
-Elche CF vs Valencia CF;1,48;0,99;0,4485;2,23;1,94;❌ NO
-Lommel United vs KAA Gent;1,02;1,34;0,4198;2,38;1,69;❌ NO
-PAOK vs Asteras Tripolis;1,67;1,09;0,521;1,92;1,72;❌ NO
-Inter Turku vs Gnistan;1,62;1,48;0,5988;1,67;1,53;❌ NO
-Nashville SC vs New York RB;1,66;1,59;0,6304;1,59;1,34;❌ NO
-Olympique Marseille vs Toulouse;1,62;1,14;0,521;1,92;1,47;❌ NO
-Cruz Azul vs León;2,05;1,55;0,6973;1,43;1,57;✅ SÍ (+9.5%)
-Londrina vs América Mineiro;1,55;1,34;0,5517;1,81;1,95;✅ SÍ (+7.6%)
-Sport Huancayo vs Melgar;1,71;1,61;0,6446;1,55;1,67;✅ SÍ (+7.6%)
-All Boys vs Estudiantes Caseros;1,44;1,1;0,4664;2,14;3,5;✅ SÍ (+63.2%)
-Boca Juniors vs River Plate;1,61;1,85;0,6717;1,49;2,42;✅ SÍ (+62.5%)
-San Martín Tucumán vs Colegiales;1,52;1,25;0,5234;1,91;3,1;✅ SÍ (+62.2%)
-Sacramento Republic vs Tulsa Roughnecks;1,49;1,27;0,521;1,92;2,05;✅ SÍ (+6.8%)
-Cartaginés vs San Carlos;1,75;1,24;0,5746;1,74;1,85;✅ SÍ (+6.3%)
-Novorizontino vs Operário PR;2,01;1,26;0,6345;1,58;1,67;✅ SÍ (+6.0%)
-RSB Berkane vs Raja Casablanca;2,0;0,79;0,5282;1,89;2,88;✅ SÍ (+52.1%)
-Atlético Grau vs Universitario;1,28;1,57;0,5424;1,84;1,95;✅ SÍ (+5.8%)
-Liverpool FC Montevideo vs Juventud;1,46;1,41;0,5471;1,83;1,93;✅ SÍ (+5.6%)
-Cobresal vs Everton;1,83;1,54;0,6544;1,53;1,61;✅ SÍ (+5.4%)
-Panathinaikos vs AEK Athens;2,67;1,48;0,7831;1,28;1,85;✅ SÍ (+44.9%)
-Lecce vs Genoa;1,34;1,05;0,4277;2,34;2,44;✅ SÍ (+4.4%)
-Real Soacha vs Tigres;1,76;1,08;0,54;1,85;2,57;✅ SÍ (+38.8%)
-Juventus vs Napoli;1,58;1,95;0,6847;1,46;1,95;✅ SÍ (+33.5%)
-Cerro Porteño vs Olimpia;1,48;1,8;0,6365;1,57;2,05;✅ SÍ (+30.5%)
-CD Tenerife vs FC Andorra;1,33;1,13;0,4459;2,24;2,31;✅ SÍ (+3.0%)
-Belgrano vs Barracas Central;1,47;1,32;0,5282;1,89;2,45;✅ SÍ (+29.4%)
-Newell's Old Boys vs Unión Santa Fe;1,26;1,72;0,5723;1,75;2,25;✅ SÍ (+28.8%)
-Ittihad Tanger vs CR Khemis Zemamra;1,96;0,9;0,5447;1,84;2,35;✅ SÍ (+28.0%)
-Lexington vs Colorado Springs;1,66;1,71;0,6544;1,53;1,95;✅ SÍ (+27.6%)
-Deportivo Saprissa vs Alajuelense;1,81;1,71;0,6828;1,46;1,8;✅ SÍ (+22.9%)
-Dinamo Bucureşti vs UTA Arad;2,07;1,42;0,6773;1,48;1,8;✅ SÍ (+21.9%)
-Athletic Club Bilbao vs Real Sociedad;1,78;1,61;0,6583;1,52;1,85;✅ SÍ (+21.8%)
-Gimnasia y Tiro vs Quilmes;1,33;1,38;0,5088;1,97;2,38;✅ SÍ (+21.1%)
-Sporting Charleroi vs RAAL La Louvière;1,95;0,95;0,554;1,8;1,85;✅ SÍ (+2.5%)
-Cuiabá vs São Bernardo;1,78;1,31;0,5967;1,68;2,0;✅ SÍ (+19.3%)
-CSD Independiente del Valle vs LDU Quito;1,84;1,55;0,6583;1,52;1,8;✅ SÍ (+18.5%)
-Burgos CF vs CD Castellón;1,35;1,83;0,6159;1,62;1,92;✅ SÍ (+18.3%)
-Real Oviedo vs UD Las Palmas;1,81;1,17;0,5723;1,75;1,99;✅ SÍ (+13.9%)
-Universitario de Vinto vs Club Always Ready;2,2;1,81;0,7634;1,31;1,49;✅ SÍ (+13.7%)
-Bohemians 1905 vs Sparta Praha;1,7;1,71;0,6622;1,51;1,7;✅ SÍ (+12.6%)
-Sporting Braga vs Famalicão;1,74;1,25;0,5746;1,74;1,93;✅ SÍ (+10.9%)
-Danubio vs Nacional;1,26;1,45;0,5088;1,97;2,0;✅ SÍ (+1.8%)
-CS Marítimo vs Santa Clara;1,11;1,26;0,4224;2,37;2,4;✅ SÍ (+1.4%)
-Voluntari vs SSC Farul;1,57;1,33;0,554;1,8;1,82;✅ SÍ (+0.8%)
+Deportes Limache vs Audax Italiano;1,62;1,18;0,5305;1,88;1,71;❌ NO
+Shakhtar Donetsk vs Sporting CP;1,14;1,33;0,4485;2,23;1,72;❌ NO
+Deportivo Pereira vs Deportes Tolima;0,96;1,53;0,4536;2,2;1,85;❌ NO
+FK Bodo - Glimt vs Lille;1,57;0,92;0,4536;2,2;1,5;❌ NO
+LASK Linz vs Slovan Bratislava;1,98;1,27;0,6304;1,59;1,37;❌ NO
+Feyenoord vs Inter Milan;1,09;2,37;0,6717;1,49;1,4;❌ NO
+Atlético Madrid vs Bayern München;1,2;2,38;0,6937;1,44;1,39;❌ NO
+Sirius vs Halmstad;1,8;1,31;0,601;1,66;1,36;❌ NO
+Galatasaray vs Stuttgart;0,96;1,88;0,54;1,85;1,4;❌ NO
+Mushuc Runa SC vs Manta FC;1,39;1,16;0,4689;2,13;1,9;❌ NO
+Rionegro Águilas vs Fortaleza CEIF;1,28;1,29;0,474;2,11;2,1;❌ NO
+Albion vs Deportivo Maldonado;1,27;1,39;0,4965;2,01;1,8;❌ NO
+Real Tomayapo vs Blooming;1,38;1,36;0,5161;1,94;1,62;❌ NO
+Bragantino vs Santos;2,05;1,36;0,6622;1,51;1,47;❌ NO
+Manchester United vs Roma;1,64;1,98;0,7008;1,43;1,5;✅ SÍ (+5.1%)
+Atlético Tucumán vs Argentinos Juniors;1,35;1,63;0,5723;1,75;2,5;✅ SÍ (+43.1%)
+Unión Magdalena vs Envigado;1,8;1,39;0,618;1,62;2,3;✅ SÍ (+42.1%)
+Villarreal vs PSG;1,48;2,8;0,8001;1,25;1,31;✅ SÍ (+4.8%)
+Independiente Rivadavia vs Banfield;1,61;1,36;0,5701;1,75;1,83;✅ SÍ (+4.3%)
+Athletic Club vs Ceará;1,58;1,36;0,5632;1,78;2,27;✅ SÍ (+27.9%)
+Defensa y Justicia vs Independiente;1,46;1,48;0,5632;1,78;2,14;✅ SÍ (+20.5%)
+Platense vs Central Córdoba SdE;1,5;1,24;0,5161;1,94;1,98;✅ SÍ (+2.2%)
+2 de Mayo vs Sportivo Trinidense;1,15;1,47;0,4866;2,06;2,1;✅ SÍ (+2.2%)
+Goiás vs CRB;1,67;1,71;0,6564;1,52;1,78;✅ SÍ (+16.8%)
+Atlético Bucaramanga vs Atlético Nacional;1,32;1,73;0,5879;1,7;1,9;✅ SÍ (+11.7%)
+Concepción vs Palestino;1,63;1,36;0,5746;1,74;1,94;✅ SÍ (+11.5%)
+Comerciantes Unidos vs ADT;1,49;1,47;0,5678;1,76;1,94;✅ SÍ (+10.2%)
+FC Barcelona vs Aston Villa;2,26;2,31;0,8341;1,2;1,2;✅ SÍ (+0.1%)
