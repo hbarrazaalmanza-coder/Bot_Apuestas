@@ -1,29 +1,23 @@
 ﻿Partido;xG Local;xG Visit;Prob. Over 2.5;Nuestra Cuota;Cuota Casa;¿Hay Valor?
-Deportes Limache vs Audax Italiano;1,62;1,18;0,5305;1,88;1,71;❌ NO
-Shakhtar Donetsk vs Sporting CP;1,14;1,33;0,4485;2,23;1,72;❌ NO
-Deportivo Pereira vs Deportes Tolima;0,96;1,53;0,4536;2,2;1,85;❌ NO
-FK Bodo - Glimt vs Lille;1,57;0,92;0,4536;2,2;1,5;❌ NO
-LASK Linz vs Slovan Bratislava;1,98;1,27;0,6304;1,59;1,37;❌ NO
-Feyenoord vs Inter Milan;1,09;2,37;0,6717;1,49;1,4;❌ NO
-Atlético Madrid vs Bayern München;1,2;2,38;0,6937;1,44;1,39;❌ NO
-Sirius vs Halmstad;1,8;1,31;0,601;1,66;1,36;❌ NO
-Galatasaray vs Stuttgart;0,96;1,88;0,54;1,85;1,4;❌ NO
+Chapecoense vs Mirassol;1,5;1,13;0,4891;2,04;1,75;❌ NO
+Deportivo Pereira vs Deportes Tolima;0,96;1,53;0,4536;2,2;1,98;❌ NO
+Líšeň vs Bohemians 1905;1,07;1,33;0,4303;2,32;1,8;❌ NO
+Sporting San José vs Pérez Zeledón;1,68;1,36;0,5857;1,71;1,52;❌ NO
+Internacional vs Coritiba;1,78;0,98;0,521;1,92;1,82;❌ NO
+Deportivo Pasto vs Jaguares de Córdoba;1,26;1,14;0,4303;2,32;1,97;❌ NO
+Nacional Asunción vs Sportivo San Lorenzo;1,37;1,19;0,4715;2,12;1,66;❌ NO
 Mushuc Runa SC vs Manta FC;1,39;1,16;0,4689;2,13;1,9;❌ NO
-Rionegro Águilas vs Fortaleza CEIF;1,28;1,29;0,474;2,11;2,1;❌ NO
-Albion vs Deportivo Maldonado;1,27;1,39;0,4965;2,01;1,8;❌ NO
-Real Tomayapo vs Blooming;1,38;1,36;0,5161;1,94;1,62;❌ NO
-Bragantino vs Santos;2,05;1,36;0,6622;1,51;1,47;❌ NO
-Manchester United vs Roma;1,64;1,98;0,7008;1,43;1,5;✅ SÍ (+5.1%)
-Atlético Tucumán vs Argentinos Juniors;1,35;1,63;0,5723;1,75;2,5;✅ SÍ (+43.1%)
-Unión Magdalena vs Envigado;1,8;1,39;0,618;1,62;2,3;✅ SÍ (+42.1%)
-Villarreal vs PSG;1,48;2,8;0,8001;1,25;1,31;✅ SÍ (+4.8%)
-Independiente Rivadavia vs Banfield;1,61;1,36;0,5701;1,75;1,83;✅ SÍ (+4.3%)
-Athletic Club vs Ceará;1,58;1,36;0,5632;1,78;2,27;✅ SÍ (+27.9%)
-Defensa y Justicia vs Independiente;1,46;1,48;0,5632;1,78;2,14;✅ SÍ (+20.5%)
-Platense vs Central Córdoba SdE;1,5;1,24;0,5161;1,94;1,98;✅ SÍ (+2.2%)
-2 de Mayo vs Sportivo Trinidense;1,15;1,47;0,4866;2,06;2,1;✅ SÍ (+2.2%)
-Goiás vs CRB;1,67;1,71;0,6564;1,52;1,78;✅ SÍ (+16.8%)
-Atlético Bucaramanga vs Atlético Nacional;1,32;1,73;0,5879;1,7;1,9;✅ SÍ (+11.7%)
-Concepción vs Palestino;1,63;1,36;0,5746;1,74;1,94;✅ SÍ (+11.5%)
-Comerciantes Unidos vs ADT;1,49;1,47;0,5678;1,76;1,94;✅ SÍ (+10.2%)
-FC Barcelona vs Aston Villa;2,26;2,31;0,8341;1,2;1,2;✅ SÍ (+0.1%)
+AEK Athens vs Real Madrid;1,43;2,03;0,6717;1,49;1,33;❌ NO
+FK Bodo - Glimt vs Lille;1,57;0,92;0,4536;2,2;1,44;❌ NO
+LASK Linz vs Slovan Bratislava;1,98;1,27;0,6304;1,59;1,33;❌ NO
+Feyenoord vs Inter Milan;1,09;2,37;0,6717;1,49;1,44;❌ NO
+FC Barcelona vs Aston Villa;2,26;2,31;0,8341;1,2;1,15;❌ NO
+Atlético Madrid vs Bayern München;1,2;2,38;0,6937;1,44;1,43;❌ NO
+Villarreal vs PSG;1,48;2,8;0,8001;1,25;1,35;✅ SÍ (+8.0%)
+Comerciantes Unidos vs ADT;1,49;1,47;0,5678;1,76;1,88;✅ SÍ (+6.7%)
+Rennes vs Olympiakos Piraeus;2,17;1,88;0,7691;1,3;1,76;✅ SÍ (+35.4%)
+Fenerbahçe vs Liverpool;1,62;2,23;0,7391;1,35;1,4;✅ SÍ (+3.5%)
+Real Cartagena vs Deportes Quindío;1,83;1,17;0,5768;1,73;2,13;✅ SÍ (+22.9%)
+Alianza Lima vs Cienciano;1,68;1,72;0,6603;1,51;1,68;✅ SÍ (+10.9%)
+2 de Mayo vs Sportivo Trinidense;1,15;1,47;0,4866;2,06;2,08;✅ SÍ (+1.2%)
+Manchester United vs Roma;1,64;1,98;0,7008;1,43;1,44;✅ SÍ (+0.9%)
